@@ -1,8 +1,8 @@
-import App from "@/components/App";
+import All from "@/components/All";
 
 
 export default function Home() {
   return (
-   <App/>
+   <All/>
   )
 }

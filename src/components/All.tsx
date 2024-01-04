@@ -15,7 +15,7 @@ import MuiSnackBar from "./MuiSnackBar";
 import MuiSelect from "./MuiSelect";
 import TabValue from "@/types/TabValue";
 
-export default function App() {
+export default function All() {
   const [tabValue, setTabValue] = useState<TabValue>(TabValue.Tabs);
 
   const handleChange = (event: SyntheticEvent, newTabValue: TabValue) => {
