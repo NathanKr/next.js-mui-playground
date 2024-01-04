@@ -1,1 +1,2 @@
-# next.js-mui-playground
+<h2>Motivation</h2>
+Unlike bootstrap , MUI handle bundle size out of the box , check <a href='https://mui.com/material-ui/guides/minimizing-bundle-size/'>here</a>. So i want to see it in action using next.js
